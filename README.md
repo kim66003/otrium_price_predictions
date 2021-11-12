@@ -63,4 +63,8 @@ docker run --rm -p 8000:8000 otrium_model
 
 ## Test API
 
-Run ./assessment/test_api.py to test API that returns model predictions for test dataset
+Run python file that tests API:
+```sh
+python ./assessment/test_api.py
+```
+This returns model predictions for test dataset.
