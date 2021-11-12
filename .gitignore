@@ -146,7 +146,8 @@ dmypy.json
 cython_debug/
 
 # Assessment files
-assessment/
+assessment/data/
+*.pdf
 
 # History
 .history/
