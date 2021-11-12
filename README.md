@@ -63,7 +63,7 @@ docker run --rm -p 8000:8000 otrium_model
 
 ## Test API
 
-Run python file that tests API:
+Run python file that tests API (when API is already running):
 ```sh
 python ./assessment/test_api.py
 ```
